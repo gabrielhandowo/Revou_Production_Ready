@@ -4,7 +4,7 @@
 #  Tasks run in alphabetical order (use 01_, 02_ prefixes to control order).
 # ============================================================
 
-job_name    : gab_testing_upload_daily_morning/daily_morning_jobs          # DAG id shown in Airflow (no spaces)
+job_name    : gab_testing_upload_daily_morning.daily_morning_jobs          # DAG id shown in Airflow (no spaces)
 label       : "Daily Morning Jobs"        # Friendly name shown in Airflow UI
 schedule    : "07:00"                     # Run every day at 7:00 AM  (HH:MM format)
 description : "Morning SQL jobs — extracts and loads daily sales data"
