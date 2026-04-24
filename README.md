@@ -53,7 +53,7 @@ Docker is the engine that runs Airflow. You only need to do this once.
 
 ---
 
-## Step 3 — Run START_HERE.bat (Windows)
+## Step 3 — Run START_HERE.bat (Windows)/ START_HERE.sh (mac/Linux)
 
 1. Make sure **Docker Desktop is open** and shows **"Engine running"**
 
