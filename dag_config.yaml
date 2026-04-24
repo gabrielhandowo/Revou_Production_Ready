@@ -1,0 +1,9 @@
+# ============================================================
+#  DAG Config — gab_testing_upload_nightly
+# ============================================================
+
+job_name    : nightly_cleanup             # DAG id shown in Airflow
+label       : "Nightly Cleanup"           # Friendly name
+schedule    : "00:00"                     # Run every day at midnight
+description : "Nightly maintenance and cleanup SQL jobs"
+owner       : gabriel
