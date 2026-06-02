@@ -7,7 +7,7 @@ This guide explains how to run Airflow from scratch on your computer.
 ## What You Need Before Starting
 
 - A computer running **Windows 10 or newer**
-- The **airflow_setup.zip** file (shared with you separately)
+- The **airflow_setup.zip** file link: https://drive.google.com/drive/folders/1L2K3jUda4sRYD8kE0HNQEWuBuPYLUwX6?usp=drive_link (shared with you separately)
 - A stable internet connection (first run downloads ~1 GB of files)
 
 ---
